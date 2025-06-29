@@ -1,0 +1,27 @@
+{
+  "name": "com.alexandros.unity-toolbar-extender",
+  "version": "1.0.0",
+  "displayName": "Unity Toolbar Extender",
+  "description": "",
+  "unity": "6000.0",
+  "unityRelease": "23f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": [],
+  "samples": [
+    {
+      "displayName": "Sample Toolbar",
+      "description": "Contains sample toolbar configuration with a scene button and a time scale slider",
+      "path": "Samples~/SampleToolbar"
+    }
+  ],
+  "author": {
+    "name": "Alexandros Stratakis",
+    "email": "stratakis.alexandros@gmail.com",
+    "url": "https://github.com/alexisstrat/unity-toolbar-extender"
+  }
+}
